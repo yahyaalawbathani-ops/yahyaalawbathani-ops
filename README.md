@@ -9,7 +9,7 @@
 Passionate about software development, Linux, artificial intelligence, and building practical projects.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=yahyaalawbathani-ops&color=6f42c1&style=flat-square&label=PROFILE+VIEWS)](https://github.com/yahyaalawbathani-ops)
-[![GitHub](https://img.shields.io/badge/GitHub-yahyaalawbathani--ops-181717?style=flat-square&logo=github)](https://github.com/yahyaalawbathani-ops)
+[![GitHub](https://img.shields.io/badge/GitHub-yahyaalawbathani--ops-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yahyaalawbathani-ops)
 
 </div>
 
@@ -19,9 +19,9 @@ Passionate about software development, Linux, artificial intelligence, and build
 
 - 🎓 Computer Science student based in Saudi Arabia
 - 💻 Learning software development through practical projects
-- 🐧 Exploring Linux administration using Ubuntu and Kali Linux
 - 🌱 Currently learning Java, Python, HTML, and Lua
-- 🧠 Strengthening my problem-solving and programming fundamentals
+- 🐧 Exploring Linux using Ubuntu and Kali Linux
+- 🧠 Strengthening my programming and problem-solving fundamentals
 - 🤖 Interested in artificial intelligence and modern technology
 - 🛠️ Building projects to apply and document what I learn
 - 🚀 Working toward becoming a professional software engineer
@@ -34,14 +34,14 @@ Passionate about software development, Linux, artificial intelligence, and build
 
 ![Java](https://img.shields.io/badge/Java-Learning-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-Learning-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-Learning-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-Learning-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 ### Linux and Operating Systems
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### Development Tools
@@ -63,7 +63,7 @@ A practical Ubuntu project demonstrating essential Linux user and group administ
 - Creating and managing Linux users
 - Creating and managing groups
 - Changing user passwords
-- Locking and unlocking accounts
+- Locking and unlocking user accounts
 - Viewing user and group information
 - Managing group membership
 - Safely deleting users and groups
@@ -82,7 +82,7 @@ Through my studies and practical projects, I have learned how to:
 - Work with Ubuntu and explore Kali Linux
 - Use Git to track project changes
 - Publish and update projects using GitHub
-- Write professional project documentation with Markdown
+- Write professional project documentation using Markdown
 - Organize project files and screenshots
 - Troubleshoot file paths and repository issues
 - Approach technical problems step by step
@@ -125,13 +125,15 @@ Through my studies and practical projects, I have learned how to:
 
 </div>
 
-> The statistics will become more detailed as I publish more programming projects.
+> My statistics will become more detailed as I publish additional programming projects.
 
 ---
 
-## 🤝 Connect With Me
+## 📫 Contact Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-yahyaalawbathani--ops-181717?style=for-the-badge&logo=github)](https://github.com/yahyaalawbathani-ops)
+- **GitHub:** [@yahyaalawbathani-ops](https://github.com/yahyaalawbathani-ops)
+- **LinkedIn:** Coming soon
+- **Email:** yahyaalawbathani@gmail.com
 
 ---
 
