@@ -132,9 +132,11 @@ Through my studies and practical projects, I have learned how to:
 ## 📫 Contact Me
 
 - **GitHub:** [@yahyaalawbathani-ops](https://github.com/yahyaalawbathani-ops)
+- **Discord:** `yahyaalawbathi`
 - **LinkedIn:** Coming soon
-- **Email:** Available upon request
+- **Email:** yahyaalawbathani@gmail.com
 
+---
 ---
 
 <div align="center">
