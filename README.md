@@ -133,7 +133,7 @@ Through my studies and practical projects, I have learned how to:
 
 - **GitHub:** [@yahyaalawbathani-ops](https://github.com/yahyaalawbathani-ops)
 - **LinkedIn:** Coming soon
-- **Email:** yahyaalawbathani@gmail.com
+- **Email:** Available upon request
 
 ---
 
